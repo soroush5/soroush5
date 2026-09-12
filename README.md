@@ -42,7 +42,7 @@ $ cat ./focus.txt
 
 [![streak](https://streak-stats.demolab.com?user=soroush5&hide_border=true)](https://github.com/soroush5)
 
-Developer at heart, mostly into bugs, cleaning up projects, and optimization. Into networks, but AI/ML most of all. I like staying in touch, so feel free to message me.
+Software engineer contributing upstream to widely used open-source projects across the JavaScript/TypeScript and Python ecosystems. My work focuses on correctness fixes with regression coverage.
 
 ## Contact
 
