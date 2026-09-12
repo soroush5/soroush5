@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Soroush;I+read+other+people's+code;sometimes+I+fix+a+bug+upstream" alt="Hi, I'm Soroush" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=600&lines=rm+-rf+excuses;git+blame+myself+first;small+diffs%2C+merged+upstream" alt="Hi, I'm Soroush" />
 </p>
 
 ```
 $ whoami
-  Soroush — a guest in other people's repositories.
-  I try to send fixes that are easy to review and easy to reject.
+  Soroush. I fix upstream bugs nobody asked me to fix.
+  Small diffs. Failing-first tests. No noise.
 
 $ cat ./now.txt
   Learning in public. Currently: TypeScript internals, SQLite edge cases.
