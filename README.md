@@ -42,13 +42,9 @@ $ cat ./focus.txt
 
 [![streak](https://streak-stats.demolab.com?user=soroush5&hide_border=true)](https://github.com/soroush5)
 
-## How I work
+## About me
 
-Every change I send is scoped to a single issue, reproduced before it is fixed, and covered by a regression test. I keep descriptions short and diffs reviewable.
-
-## Thanks
-
-I am grateful to the maintainers who review outside contributions. Thorough reviews, including rejections with explanations, are where the learning happens.
+33 years old. Developer at heart, mostly into bugs, cleaning up projects, and optimization. Into networks, but AI/ML most of all. I like staying in touch, so feel free to message me.
 
 ## Contact
 
