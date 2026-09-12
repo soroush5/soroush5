@@ -42,9 +42,7 @@ $ cat ./focus.txt
 
 [![streak](https://streak-stats.demolab.com?user=soroush5&hide_border=true)](https://github.com/soroush5)
 
-## About me
-
-33 years old. Developer at heart, mostly into bugs, cleaning up projects, and optimization. Into networks, but AI/ML most of all. I like staying in touch, so feel free to message me.
+Developer at heart, mostly into bugs, cleaning up projects, and optimization. Into networks, but AI/ML most of all. I like staying in touch, so feel free to message me.
 
 ## Contact
 
