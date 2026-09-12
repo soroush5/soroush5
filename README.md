@@ -40,8 +40,6 @@
 
 [![streak](https://streak-stats.demolab.com?user=soroush5&hide_border=true)](https://github.com/soroush5)
 
-Developer at heart, mostly into bugs, cleaning up projects, and optimization. Into networks, but AI/ML most of all. I like staying in touch, so feel free to message me.
-
 ## Contact
 
 The issues on this repo are open. Feel free to ask me about anything: https://github.com/soroush5/soroush5/issues
