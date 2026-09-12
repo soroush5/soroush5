@@ -1,31 +1,27 @@
-# $ whoami
+# Soroush Ahmadi
 
-Soroush. Upstream open-source contributor. I send small fixes with tests.
+Software engineer contributing upstream to widely used open-source projects across the JavaScript/TypeScript and Python ecosystems. My work focuses on correctness fixes with regression coverage.
 
 ```
-$ cat ./now.txt
-  Fixing real bugs in projects people use every day.
-  Currently digging into: TypeScript internals, SQLite edge cases.
-
-$ ls ./merged-upstream
-  react-hook-form/  (x11)   nodemailer/  (x7)   woocommerce/
-  dify/             meilisearch-js/       KiroCrew/
-  next-intl/        OmniRoute/
-
-$ cat ./how-i-work.txt
-  1. find a bug a real user hits this week
-  2. reproduce it through the real app, never unit-only
-  3. one small diff, one failing-first test
-  4. short description, no noise
-  5. max 2 PRs a day, max 1 per repo a day
-
-$ cat ./thanks.txt
-  To every maintainer who reviewed my code,
-  especially the ones who rejected it and explained why.
-  That is where the learning is.
+$ cat ./focus.txt
+  Correctness bugs, data integrity, and failure handling
+  in libraries and frameworks people depend on daily.
 ```
 
-## $ ls ./stack
+## Selected upstream contributions
+
+| Project | Area |
+|---|---|
+| [react-hook-form](https://github.com/react-hook-form/react-hook-form) | Form state, validation, field arrays (11 merged) |
+| [nodemailer](https://github.com/nodemailer/nodemailer) | SMTP pool, MIME composition, cookies (7 merged) |
+| [woocommerce](https://github.com/woocommerce/woocommerce) | Blocks checkout, order confirmation |
+| [dify](https://github.com/langgenius/dify) | API key handling, workflow triggers |
+| [meilisearch-js](https://github.com/meilisearch/meilisearch-js) | Document and search client behavior |
+| [KiroCrew](https://github.com/kirodotdev/KiroCrew) | Dashboard, agent safety gates |
+| [next-intl](https://github.com/amannn/next-intl) | Middleware routing, locale handling |
+| [OmniRoute](https://github.com/diegosouzapw/OmniRoute) | Provider adapters, secret redaction |
+
+## Stack
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -40,34 +36,21 @@ $ cat ./thanks.txt
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-## $ ./stats --all
+## Stats
 
 | ![stats](https://github-readme-stats.vercel.app/api?username=soroush5&show_icons=true&include_all_commits=true&hide_border=true) | ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soroush5&layout=compact&hide_border=true&langs_count=8) |
 |---|---|
 
 [![activity](https://github-readme-activity-graph.vercel.app/graph?username=soroush5&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## $ cat ./setup.txt
+## How I work
 
-```
-  Editor   : VS Code, Vim bindings
-  Terminal : stock macOS Terminal, no theme to show off
-  OS       : macOS + Linux containers
-  Rule     : if it needs more than 5 minutes to review, it is too big
-```
+Every change I send is scoped to a single issue, reproduced before it is fixed, and covered by a regression test. I keep descriptions short and diffs reviewable.
 
-## $ cat ./beliefs.txt
+## Thanks
 
-```
-  A bug report without a repro is a rumor.
-  A fix without a failing test is a guess.
-  A PR description longer than the diff is an apology.
-  Reviewers' time is the scarcest resource in open source.
-```
+I am grateful to the maintainers who review outside contributions. Thorough reviews, including rejections with explanations, are where the learning happens.
 
-## $ cat ./contact.txt
+## Contact
 
-```
-  Issues on this repo are open. Ask me about anything.
-  https://github.com/soroush5/soroush5/issues
-```
+The issues on this repo are open. Feel free to ask me about anything: https://github.com/soroush5/soroush5/issues
