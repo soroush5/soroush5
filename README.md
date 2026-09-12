@@ -36,9 +36,11 @@ $ cat ./focus.txt
 
 ## Stats
 
-| ![stats](https://github-readme-stats.vercel.app/api?username=soroush5&show_icons=true&include_all_commits=true&hide_border=true) | ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soroush5&layout=compact&hide_border=true&langs_count=8) |
-|---|---|
+| Merged upstream PRs | Repos with merges | Languages I ship |
+|:---:|:---:|:---:|
+| 27 | 8 | TypeScript, Python, JavaScript |
 
+[![streak](https://streak-stats.demolab.com?user=soroush5&hide_border=true)](https://git.io/streak-stats)
 
 ## How I work
 
