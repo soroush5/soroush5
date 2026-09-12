@@ -40,7 +40,7 @@ $ cat ./focus.txt
 |:---:|:---:|:---:|
 | 27 | 8 | TypeScript, Python, JavaScript |
 
-[![streak](https://streak-stats.demolab.com?user=soroush5&hide_border=true)](https://git.io/streak-stats)
+[![streak](https://streak-stats.demolab.com?user=soroush5&hide_border=true)](https://github.com/soroush5)
 
 ## How I work
 
