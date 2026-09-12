@@ -1,5 +1,3 @@
-# Soroush Ahmadi
-
 Software engineer contributing upstream to widely used open-source projects across the JavaScript/TypeScript and Python ecosystems. My work focuses on correctness fixes with regression coverage.
 
 ```
