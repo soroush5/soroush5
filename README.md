@@ -1,9 +1,8 @@
-Developer at heart, mostly into bugs, cleaning up projects, and optimization. Into networks, but AI/ML most of all. I like staying in touch, so feel free to message me.
-
 ```
 $ cat ./focus.txt
-  Correctness bugs, data integrity, and failure handling
-  in libraries and frameworks people depend on daily.
+  Developer at heart, mostly into bugs, cleaning up projects,
+  and optimization. Into networks, but AI/ML most of all.
+  I like staying in touch, so feel free to message me.
 ```
 
 ## Selected upstream contributions
