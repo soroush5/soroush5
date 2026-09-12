@@ -1,6 +1,5 @@
 ```
-  Developer at heart, mostly into bugs, cleaning up projects,
-  and optimization. Into networks, but AI/ML most of all.
+  Into networks, but AI/ML most of all.
   I like staying in touch, so feel free to message me.
 ```
 
