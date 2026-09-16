@@ -9,7 +9,7 @@
 |---|---|
 | [react-hook-form](https://github.com/react-hook-form/react-hook-form) | Form state, validation, field arrays (12 merged) |
 | [nodemailer](https://github.com/nodemailer/nodemailer) | SMTP pool, MIME composition, cookies (7 merged) |
-| [woocommerce](https://github.com/woocommerce/woocommerce) | Blocks checkout, order confirmation |
+| [woocommerce](https://github.com/woocommerce/woocommerce) | Blocks checkout, order confirmation (2 merged) |
 | [dify](https://github.com/langgenius/dify) | API key handling, workflow triggers |
 | [meilisearch-js](https://github.com/meilisearch/meilisearch-js) | Document and search client behavior (5 merged) |
 | [KiroCrew](https://github.com/kirodotdev/KiroCrew) | Dashboard, agent safety gates |
@@ -36,7 +36,7 @@
 
 | Merged upstream PRs | Repos with merges | Languages I ship |
 |:---:|:---:|:---:|
-| 32 | 9 | TypeScript, Python, JavaScript |
+| 33 | 9 | TypeScript, Python, JavaScript |
 
 [![streak](https://streak-stats.demolab.com?user=soroush5&hide_border=true)](https://github.com/soroush5)
 
