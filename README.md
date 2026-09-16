@@ -11,7 +11,7 @@
 | [nodemailer](https://github.com/nodemailer/nodemailer) | SMTP pool, MIME composition, cookies (7 merged) |
 | [woocommerce](https://github.com/woocommerce/woocommerce) | Blocks checkout, order confirmation |
 | [dify](https://github.com/langgenius/dify) | API key handling, workflow triggers |
-| [meilisearch-js](https://github.com/meilisearch/meilisearch-js) | Document and search client behavior |
+| [meilisearch-js](https://github.com/meilisearch/meilisearch-js) | Document and search client behavior (4 merged) |
 | [KiroCrew](https://github.com/kirodotdev/KiroCrew) | Dashboard, agent safety gates |
 | [next-intl](https://github.com/amannn/next-intl) | Middleware routing, locale handling |
 | [OmniRoute](https://github.com/diegosouzapw/OmniRoute) | Provider adapters, secret redaction |
@@ -36,7 +36,7 @@
 
 | Merged upstream PRs | Repos with merges | Languages I ship |
 |:---:|:---:|:---:|
-| 29 | 9 | TypeScript, Python, JavaScript |
+| 31 | 9 | TypeScript, Python, JavaScript |
 
 [![streak](https://streak-stats.demolab.com?user=soroush5&hide_border=true)](https://github.com/soroush5)
 
