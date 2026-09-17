@@ -7,7 +7,7 @@
 
 | Project | Area |
 |---|---|
-| [react-hook-form](https://github.com/react-hook-form/react-hook-form) | Form state, validation, field arrays (12 merged) |
+| [react-hook-form](https://github.com/react-hook-form/react-hook-form) | Form state, validation, field arrays (13 merged) |
 | [nodemailer](https://github.com/nodemailer/nodemailer) | SMTP pool, MIME composition, cookies (7 merged) |
 | [woocommerce](https://github.com/woocommerce/woocommerce) | Blocks checkout, order confirmation (2 merged) |
 | [dify](https://github.com/langgenius/dify) | API key handling, workflow triggers |
