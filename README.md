@@ -16,6 +16,7 @@
 | [next-intl](https://github.com/amannn/next-intl) | Middleware routing, locale handling |
 | [OmniRoute](https://github.com/diegosouzapw/OmniRoute) | Provider adapters, secret redaction |
 | [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Backend type coercion (2 merged) |
+| [data.gov](https://github.com/GSA/data.gov) | Metrics CSV encoding |
 
 ## Stack
 
@@ -36,7 +37,7 @@
 
 | Merged upstream PRs | Repos with merges | Languages I ship |
 |:---:|:---:|:---:|
-| 33 | 9 | TypeScript, Python, JavaScript |
+| 34 | 10 | TypeScript, Python, JavaScript |
 
 [![streak](https://streak-stats.demolab.com?user=soroush5&hide_border=true)](https://github.com/soroush5)
 
