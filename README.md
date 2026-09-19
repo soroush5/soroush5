@@ -10,13 +10,13 @@
 | [react-hook-form](https://github.com/react-hook-form/react-hook-form) | Form state, validation, field arrays (18 merged) |
 | [nodemailer](https://github.com/nodemailer/nodemailer) | SMTP pool, MIME composition, cookies (7 merged) |
 | [woocommerce](https://github.com/woocommerce/woocommerce) | Blocks checkout, order confirmation (2 merged) |
-| [dify](https://github.com/langgenius/dify) | API key handling, workflow triggers |
+| [dify](https://github.com/langgenius/dify) | API key handling, workflow triggers (1 merged) |
 | [meilisearch-js](https://github.com/meilisearch/meilisearch-js) | Document and search client behavior (5 merged) |
-| [KiroCrew](https://github.com/kirodotdev/KiroCrew) | Dashboard, agent safety gates |
-| [next-intl](https://github.com/amannn/next-intl) | Middleware routing, locale handling |
-| [OmniRoute](https://github.com/diegosouzapw/OmniRoute) | Provider adapters, secret redaction |
+| [KiroCrew](https://github.com/kirodotdev/KiroCrew) | Dashboard, agent safety gates (1 merged) |
+| [next-intl](https://github.com/amannn/next-intl) | Middleware routing, locale handling (2 merged) |
+| [OmniRoute](https://github.com/diegosouzapw/OmniRoute) | Provider adapters, secret redaction (1 merged) |
 | [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Backend type coercion (2 merged) |
-| [data.gov](https://github.com/GSA/data.gov) | Metrics CSV encoding |
+| [data.gov](https://github.com/GSA/data.gov) | Metrics CSV encoding (1 merged) |
 
 ## Stack
 
