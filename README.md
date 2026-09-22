@@ -17,6 +17,7 @@
 | [OmniRoute](https://github.com/diegosouzapw/OmniRoute) | Provider adapters, secret redaction (1 merged) |
 | [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Backend type coercion (2 merged) |
 | [data.gov](https://github.com/GSA/data.gov) | Metrics CSV encoding (1 merged) |
+| [design-system-react](https://github.com/cfpb/design-system-react) | Tabs keyboard accessibility (1 merged) |
 
 ## Stack
 
@@ -37,7 +38,7 @@
 
 | Merged upstream PRs | Repos with merges | Languages I ship |
 |:---:|:---:|:---:|
-| 40 | 10 | TypeScript, Python, JavaScript |
+| 41 | 11 | TypeScript, Python, JavaScript |
 
 [![streak](https://streak-stats.demolab.com?user=soroush5&hide_border=true)](https://github.com/soroush5)
 
