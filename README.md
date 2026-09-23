@@ -23,7 +23,7 @@ Some projects where my PRs got merged:
 | [react-hook-form](https://github.com/react-hook-form/react-hook-form) | Form state, validation, field arrays (18 merged) |
 | [nodemailer](https://github.com/nodemailer/nodemailer) | SMTP pool, MIME, cookies (7 merged) |
 | [meilisearch-js](https://github.com/meilisearch/meilisearch-js) | Tenant tokens, request options, errors (5 merged) |
-| [woocommerce](https://github.com/woocommerce/woocommerce) | Receipts, Blocks order confirmation (2 merged) |
+| [woocommerce](https://github.com/woocommerce/woocommerce) | Receipts, order confirmation, cart cache (3 merged) |
 | [next-intl](https://github.com/amannn/next-intl) | Route params, base path cookie (2 merged) |
 | [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Backend type conversion (2 merged) |
 | [dify](https://github.com/langgenius/dify) | CSRF path matching (1 merged) |
@@ -78,6 +78,7 @@ Some projects where my PRs got merged:
 
 - [#68369](https://github.com/woocommerce/woocommerce/pull/68369) receipt when parent product was deleted
 - [#68584](https://github.com/woocommerce/woocommerce/pull/68584) array-valued key on order confirmation
+- [#68372](https://github.com/woocommerce/woocommerce/pull/68372) cart blocks crash on corrupt localStorage cache
 
 **amannn/next-intl**
 
