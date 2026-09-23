@@ -20,7 +20,7 @@ Some projects where my PRs got merged:
 
 | Project | Area |
 |---|---|
-| [react-hook-form](https://github.com/react-hook-form/react-hook-form) | Form state, validation, field arrays (18 merged) |
+| [react-hook-form](https://github.com/react-hook-form/react-hook-form) | Form state, validation, field arrays (20 merged) |
 | [nodemailer](https://github.com/nodemailer/nodemailer) | SMTP pool, MIME, cookies (7 merged) |
 | [meilisearch-js](https://github.com/meilisearch/meilisearch-js) | Tenant tokens, request options, errors (5 merged) |
 | [woocommerce](https://github.com/woocommerce/woocommerce) | Receipts, order confirmation, cart cache (3 merged) |
@@ -55,6 +55,8 @@ Some projects where my PRs got merged:
 - [#13765](https://github.com/react-hook-form/react-hook-form/pull/13765) deps revalidation on setValue
 - [#13767](https://github.com/react-hook-form/react-hook-form/pull/13767) stale field array root error
 - [#13769](https://github.com/react-hook-form/react-hook-form/pull/13769) delayError timers on resetField
+- [#13765](https://github.com/react-hook-form/react-hook-form/pull/13765) revalidate deps dependents on setValue
+- [#13758](https://github.com/react-hook-form/react-hook-form/pull/13758) clear validation rules removed at runtime
 
 **nodemailer/nodemailer**
 
