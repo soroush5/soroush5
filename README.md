@@ -28,9 +28,10 @@ Some projects where my PRs got merged:
 | [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Backend type conversion (2 merged) |
 | [dify](https://github.com/langgenius/dify) | CSRF path matching (1 merged) |
 | [KiroCrew](https://github.com/kirodotdev/KiroCrew) | Memory retention setting (1 merged) |
-| [OmniRoute](https://github.com/diegosouzapw/OmniRoute) | Request translator (1 merged) |
+| [OmniRoute](https://github.com/diegosouzapw/OmniRoute) | Request translator, usage names (2 merged) |
 | [data.gov](https://github.com/GSA/data.gov) | Metrics CSV encoding (1 merged) |
 | [design-system-react](https://github.com/cfpb/design-system-react) | Tabs keyboard support (1 merged) |
+| [FormSG](https://github.com/opengovsg/FormSG) | UEN year validation (1 merged) |
 
 <details>
 <summary>Full list</summary>
@@ -101,6 +102,7 @@ Some projects where my PRs got merged:
 **diegosouzapw/OmniRoute**
 
 - [#12691](https://github.com/diegosouzapw/OmniRoute/pull/12691) non-array tool_calls
+- [#14205](https://github.com/diegosouzapw/OmniRoute/pull/14205) Responses-style usage names in streaming
 
 **GSA/data.gov**
 
@@ -109,6 +111,10 @@ Some projects where my PRs got merged:
 **cfpb/design-system-react**
 
 - [#642](https://github.com/cfpb/design-system-react/pull/642) Tabs roving tabindex
+
+**opengovsg/FormSG**
+
+- [#10026](https://github.com/opengovsg/FormSG/pull/10026) future-year check for T-series UEN
 
 </details>
 
@@ -132,7 +138,7 @@ Some projects where my PRs got merged:
 
 | Merged upstream PRs | Repos with merges | Languages I ship |
 |:---:|:---:|:---:|
-| 42 | 11 | TypeScript, Python, JavaScript |
+| 44 | 12 | TypeScript, Python, JavaScript |
 
 [![streak](https://streak-stats.demolab.com?user=soroush5&hide_border=true)](https://github.com/soroush5)
 
