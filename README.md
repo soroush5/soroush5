@@ -32,6 +32,7 @@ Some projects where my PRs got merged:
 | [data.gov](https://github.com/GSA/data.gov) | Metrics CSV encoding (1 merged) |
 | [design-system-react](https://github.com/cfpb/design-system-react) | Tabs keyboard support (1 merged) |
 | [FormSG](https://github.com/opengovsg/FormSG) | UEN year validation (1 merged) |
+| [isomer](https://github.com/opengovsg/isomer) | Studio save error feedback (1 merged) |
 
 <details>
 <summary>Full list</summary>
@@ -116,6 +117,10 @@ Some projects where my PRs got merged:
 
 - [#10026](https://github.com/opengovsg/FormSG/pull/10026) future-year check for T-series UEN
 
+**opengovsg/isomer**
+
+- [#3404](https://github.com/opengovsg/isomer/pull/3404) toast when index page conversion save fails
+
 </details>
 
 ## Stack
@@ -138,7 +143,7 @@ Some projects where my PRs got merged:
 
 | Merged upstream PRs | Repos with merges | Languages I ship |
 |:---:|:---:|:---:|
-| 44 | 12 | TypeScript, Python, JavaScript |
+| 45 | 13 | TypeScript, Python, JavaScript |
 
 [![streak](https://streak-stats.demolab.com?user=soroush5&hide_border=true)](https://github.com/soroush5)
 
