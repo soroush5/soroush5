@@ -28,7 +28,7 @@ Some projects where my PRs got merged:
 | [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Backend type conversion (2 merged) |
 | [dify](https://github.com/langgenius/dify) | CSRF path matching (1 merged) |
 | [KiroCrew](https://github.com/kirodotdev/KiroCrew) | Memory retention setting (1 merged) |
-| [OmniRoute](https://github.com/diegosouzapw/OmniRoute) | Request translator, usage names (2 merged) |
+| [OmniRoute](https://github.com/cheaper-inference/OmniRoute) | Request translator, usage names (2 merged) |
 | [data.gov](https://github.com/GSA/data.gov) | Metrics CSV encoding (1 merged) |
 | [design-system-react](https://github.com/cfpb/design-system-react) | Tabs keyboard support (1 merged) |
 | [FormSG](https://github.com/opengovsg/FormSG) | UEN year validation (1 merged) |
@@ -100,10 +100,10 @@ Some projects where my PRs got merged:
 
 - [#8246](https://github.com/kirodotdev/KiroCrew/pull/8246) negative keep_days
 
-**diegosouzapw/OmniRoute**
+**cheaper-inference/OmniRoute**
 
-- [#12691](https://github.com/diegosouzapw/OmniRoute/pull/12691) non-array tool_calls
-- [#14205](https://github.com/diegosouzapw/OmniRoute/pull/14205) Responses-style usage names in streaming
+- [#12691](https://github.com/cheaper-inference/OmniRoute/pull/12691) non-array tool_calls
+- [#14205](https://github.com/cheaper-inference/OmniRoute/pull/14205) Responses-style usage names in streaming
 
 **GSA/data.gov**
 
