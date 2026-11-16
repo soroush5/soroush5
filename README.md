@@ -30,7 +30,7 @@ Some projects where my PRs got merged:
 | [KiroCrew](https://github.com/kirodotdev/KiroCrew) | Memory retention setting (1 merged) |
 | [OmniRoute](https://github.com/cheaper-inference/OmniRoute) | Request translator, usage names (2 merged) |
 | [data.gov](https://github.com/GSA/data.gov) | Metrics CSV encoding (1 merged) |
-| [design-system-react](https://github.com/cfpb/design-system-react) | Tabs keyboard support (1 merged) |
+| [design-system-react](https://github.com/cfpb/design-system-react) | Tabs keyboard, TextInput ref (2 merged) |
 | [FormSG](https://github.com/opengovsg/FormSG) | UEN year validation (1 merged) |
 | [isomer](https://github.com/opengovsg/isomer) | Studio save error feedback (1 merged) |
 
@@ -112,6 +112,7 @@ Some projects where my PRs got merged:
 **cfpb/design-system-react**
 
 - [#642](https://github.com/cfpb/design-system-react/pull/642) Tabs roving tabindex
+- [#649](https://github.com/cfpb/design-system-react/pull/649) TextInput inputRef on the real input
 
 **opengovsg/FormSG**
 
@@ -143,7 +144,7 @@ Some projects where my PRs got merged:
 
 | Merged upstream PRs | Repos with merges | Languages I ship |
 |:---:|:---:|:---:|
-| 45 | 13 | TypeScript, Python, JavaScript |
+| 46 | 13 | TypeScript, Python, JavaScript |
 
 [![streak](https://streak-stats.demolab.com?user=soroush5&hide_border=true)](https://github.com/soroush5)
 
