@@ -21,7 +21,7 @@ Some projects where my PRs got merged:
 | Project | Area |
 |---|---|
 | [react-hook-form](https://github.com/react-hook-form/react-hook-form) | Form state, validation, field arrays (18 merged) |
-| [nodemailer](https://github.com/nodemailer/nodemailer) | SMTP pool, MIME, cookies (7 merged) |
+| [nodemailer](https://github.com/nodemailer/nodemailer) | SMTP pool, MIME, cookies, DKIM (8 merged) |
 | [meilisearch-js](https://github.com/meilisearch/meilisearch-js) | Tenant tokens, request options, errors (5 merged) |
 | [woocommerce](https://github.com/woocommerce/woocommerce) | Receipts, order confirmation, cart cache (3 merged) |
 | [next-intl](https://github.com/amannn/next-intl) | Route params, base path cookie (2 merged) |
@@ -67,6 +67,7 @@ Some projects where my PRs got merged:
 - [#1865](https://github.com/nodemailer/nodemailer/pull/1865) Buffer input in base64 mime words
 - [#1866](https://github.com/nodemailer/nodemailer/pull/1866) rate limited pool connections on close
 - [#1867](https://github.com/nodemailer/nodemailer/pull/1867) line breaks in multipart boundary
+- [#1922](https://github.com/nodemailer/nodemailer/pull/1922) DKIM signs List-Unsubscribe-Post
 
 **meilisearch/meilisearch-js**
 
@@ -144,7 +145,7 @@ Some projects where my PRs got merged:
 
 | Merged upstream PRs | Repos with merges | Languages I ship |
 |:---:|:---:|:---:|
-| 46 | 13 | TypeScript, Python, JavaScript |
+| 47 | 13 | TypeScript, Python, JavaScript |
 
 [![streak](https://streak-stats.demolab.com?user=soroush5&hide_border=true)](https://github.com/soroush5)
 
